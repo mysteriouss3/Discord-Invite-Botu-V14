@@ -2,7 +2,7 @@
 
 ![Proje Logo](https://github.com/mysteriouss3/Discord-Invite-Botu-V14/assets/142053394/d177ebdc-0169-434a-ad8d-cbc95fc73753)
 
-Bu Discord davet botu, Discord sunucunuzdaki davetleri izlemek ve kullanıcıların davetlerini takip etmek için kullanılabilir. Botun işlevselliğini ve yapılandırmasını açıklamak için bu README dosyası kullanılır.
+Bu Discord davet botu, Discord sunucunuzdaki davetleri izlemek ve kullanıcıların davetlerini takip etmek için kullanılabilir.
 
 ## Başlangıç
 
