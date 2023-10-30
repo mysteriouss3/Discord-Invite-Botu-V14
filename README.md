@@ -1,8 +1,8 @@
 # Discord Davet Botu (V14)
 
-Bu Discord davet botu, Discord sunucunuzdaki davetleri izlemek ve kullanıcıların davetlerini takip etmek için kullanılabilir. Botun işlevselliğini ve yapılandırmasını açıklamak için bu README dosyası kullanılır.
-![image](https://github.com/mysteriouss3/Discord-Invite-Botu-V14/assets/142053394/d177ebdc-0169-434a-ad8d-cbc95fc73753)
+![Proje Logo](https://github.com/mysteriouss3/Discord-Invite-Botu-V14/assets/142053394/d177ebdc-0169-434a-ad8d-cbc95fc73753)
 
+Bu Discord davet botu, Discord sunucunuzdaki davetleri izlemek ve kullanıcıların davetlerini takip etmek için kullanılabilir. Botun işlevselliğini ve yapılandırmasını açıklamak için bu README dosyası kullanılır.
 
 ## Başlangıç
 
@@ -18,15 +18,15 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların ve araçların yü
 ### Kurulum
 
 1. Projeyi kendi GitHub hesabınıza forklayın.
+2. Proje İçerisinde `Config.js` Dosyasından Botun Token Ve Diğer Bilgilerini Doldurmayı Unutmayın!
+3. Bu projeyi bilgisayarınıza klonlayın.
 
-2. Bu projeyi bilgisayarınıza klonlayın.
-   
-```bash
-git clone https://github.com/yourusername/Discord-Davet-Botu.git
-cd Discord-Davet-Botu
-npm install
-start.bat Çalıştırın.
-```
+   ```bash
+   git clone https://github.com/yourusername/Discord-Davet-Botu.git
+   cd Discord-Davet-Botu
+   npm install
+   start.bat Dosyasını Çalıştırın```
+
 Bot başarılı bir şekilde başlatıldığında, sunucunuzdaki davetleri izlemeye başlar.
 
 ## İletişim
