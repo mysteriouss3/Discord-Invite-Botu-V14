@@ -22,7 +22,7 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların ve araçların yü
 3. Bu projeyi bilgisayarınıza klonlayın.
 
    ```bash
-   git clone https://github.com/yourusername/Discord-Davet-Botu.git
+   git clone https://github.com/mysterioss3/Discord-Davet-Botu.git
    cd Discord-Davet-Botu
    npm install
    start.bat Dosyasını Çalıştırın
