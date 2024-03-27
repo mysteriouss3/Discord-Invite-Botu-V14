@@ -31,7 +31,7 @@ Bot başarılı bir şekilde başlatıldığında, sunucunuzdaki davetleri izlem
 
 ## İletişim
 
-Discord : mysterious3
+Discord : mys_terious3
 
 
 
